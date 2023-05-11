@@ -19,7 +19,7 @@ Before joining Umich, I was studying in the [Shanghai JiaoTong University](https
 
 📫 **Contact me by**:
 - Email (jhinpan [AT] umich.edu)
-- [Homepage](https://Jhinpan.github.io/)
+- [Homepage](https://github.com/Jhinpan/)
 - [Linkedin](https://www.linkedin.com/in/jin-pan-246a04253/)
 
 
