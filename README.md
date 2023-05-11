@@ -1,17 +1,25 @@
-### Hi there, This is Jhin👋
+### Hi there, I'm [Jhin Pan(潘劲 in Chinese)!](https://jhinpan.github.io/) 👋
 
-<!--
-**Jhinpan/Jhinpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior student at the [Human Factors Group of UMTRI][(https://www.linkedin.com/company/university-of-michigan-transportation-research-institute/)] in [Umich](https://www.umich.edu/).
+Before joining Umich, I was studying in the Shanghai JiaoTong University with pusing the degree of Electrical Computer Engineering Major.
 
-Here are some ideas to get you started:
 
--->
-- 🔭 I’m currently working on Umich CARLA Simulator Project
-- 🌱 I’m currently learning Unity/Unreal
-- 👯 I’m looking to collaborate on XR projects
-- 💬 Ask me about C/C++/Python/Matlab
-- 📫 How to reach me: jhinpan@umich.edu
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: Real Road Idiot
+🔭 **Reseach-wise, I mainly focus on**:
 
-[Jhin Pan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhinpan&show_icons=true&theme=radical)
+- **Autonomous Driving** topics related to **Simulation**, and **Cooperative Driving Automation**
+- **Computer Vision** topics related to **Convolutional Network** and **Image Classification**
+- **Extended Reality** topics related to **Virtual Reality** and **Augmented Reality**
+
+
+😄 **I am open to**:
+
+- collaboration opportunities (anytime & anywhere & any type) and 
+- research internships
+
+📫 **Contact me by**:
+- Email (jhinpan [AT] umich.edu)
+- [Homepage](https://Jhinpan.github.io/)
+- [Linkedin][(https://www.linkedin.com/in/jin-pan-246a04253/)/)]
+
+
+[![Jhin's github stats](https://github-readme-stats.vercel.app/api?username=Jhinpan&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
