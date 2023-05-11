@@ -2,7 +2,7 @@
 
 I am a Junior student at the [Human Factors Group of UMTRI][(https://www.linkedin.com/company/university-of-michigan-transportation-research-institute/)] in [Umich](https://www.umich.edu/).
 
-Before joining Umich, I was studying in the Shanghai JiaoTong University with pusing the degree of Electrical Computer Engineering Major.
+Before joining Umich, I was studying in the [Shanghai JiaoTong University](https://en.sjtu.edu.cn/) with pusing the degree of Electrical Computer Engineering Major.
 
 
 🔭 **Reseach-wise, I mainly focus on**:
