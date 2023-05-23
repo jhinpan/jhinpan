@@ -1,6 +1,6 @@
 ### Hi there, I'm [Jhin Pan(潘劲 in Chinese)!](https://jhinpan.github.io/) 👋
 
-I am a Junior student at the [Human Factors Group of UMTRI][(https://www.linkedin.com/company/university-of-michigan-transportation-research-institute/)] in [Umich](https://www.umich.edu/).
+I am a Junior student at the [Human Factors Group of UMTRI](https://www.linkedin.com/company/university-of-michigan-transportation-research-institute/) in [Umich](https://www.umich.edu/).
 
 Before joining Umich, I was studying in the [Shanghai JiaoTong University](https://en.sjtu.edu.cn/) with pursuing the degree of Electrical Computer Engineering Major.
 
