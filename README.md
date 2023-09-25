@@ -1,4 +1,4 @@
-### Hi there, I'm [Jhin Pan(潘劲 in Chinese)!]([https://jhinpan.github.io/Portfolio_Jhinpan/]) 👋
+### Hi there, I'm [Jhin Pan(潘劲 in Chinese)!](https://jhinpan.github.io/Portfolio_Jhinpan/) 👋
 
 I am a senior student major in Computer Science at the [Human Factors Group of UMTRI](https://www.linkedin.com/company/university-of-michigan-transportation-research-institute/) and [Human Centered Computing Laboratory](https://hcc.engin.umich.edu/) in [Umich](https://www.umich.edu/).
 
