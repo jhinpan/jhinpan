@@ -15,5 +15,3 @@ I am a first-year graduate student in the traditional M.S./Ph.D. program in Comp
 - [Email](jpan236@wisc.edu)
 - [Github](https://github.com/jhinpan/)
 - [Linkedin](https://www.linkedin.com/in/jin-pan-246a04253/)
-
-[![Jhin's github stats](https://github-readme-stats.vercel.app/api?username=Jhinpan&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
