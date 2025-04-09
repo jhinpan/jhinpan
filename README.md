@@ -5,11 +5,11 @@ I am a first-year graduate student in the traditional M.S./Ph.D. program in Comp
 
 🔭 **Reseach-wise, I mainly focus on**:
 - **ML System**: topics related to **SGLang**, **AI Infra** as well as **High Performance Computing**
-- **Game Engine and Development**: topics related to **2D Game Engine Architecture** and **Web Build Game**
+- **RLHF For Agents**: topics related to **Post-training** and **RLHF for Multi-Agents System**
 - **Extended Reality**: topics related to **Virtual Reality** and **Augmented Reality**
 
-😄 **I am open to**:
-- 2025 Summer Intern
+😄 **I am glad to share that**:
+- I am going to join AMD GenAI Team this summer mainly working on RL System
 
 📫 **Contact me by**:
 - [Email](jpan236@wisc.edu)
